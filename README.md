@@ -1,6 +1,9 @@
 # Getting Started
 
-### Reference Documentation
+## Objetivo do Projeto
+* O projeto será baseado na proposta de um Bankline para gestão de correntistas e movimentações de receitas e despesas.
+
+## Reference Documentation
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
